@@ -1,0 +1,16 @@
+#bac-image {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+}
+
+#data-btn {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#study-text {
+    text-align: center;
+}
